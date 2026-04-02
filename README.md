@@ -32,6 +32,8 @@ That's it. Claude will introduce itself as your tutor and guide you through the 
 The course follows a 7-day PM journey. Each day simulates a real scenario —
 you've just been handed an AI product and need to evaluate it.
 
+> **Currently available:** Day 1, Lesson 1. New lessons added regularly.
+
 | Day | Scenario | Lessons | Key Skills |
 |-----|----------|---------|------------|
 | **Day 1** | You Just Inherited an AI Product | L1–L2 | Read a pipeline, orient in production data |
@@ -41,8 +43,6 @@ you've just been handed an AI product and need to evaluate it.
 | **Day 5** | What Should You Measure? | L1–L3 | Metric design, guardrail vs optimization metrics |
 | **Day 6** | How Do You Improve It? | L1–L2 | A/B testing for AI, regression testing, launch criteria |
 | **Day 7** | How Do You Communicate It? | L1–L2 | Translating eval signals to product decisions, eval cadence |
-
-> **Currently available:** Day 1, Lesson 1. New lessons added regularly.
 
 ## How It Works
 
